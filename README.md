@@ -35,7 +35,7 @@ NOTE: You can use Anaconda as well. It is not recommended not use a virtual Pyth
 # Windows
 cd gpt4all_api
 python.exe -m venv .venv
-source .venv/Scripts/activate
+call .venv/Scripts/activate
 ```
 
 ```bash
